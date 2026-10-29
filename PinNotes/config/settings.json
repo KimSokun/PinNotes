@@ -1,0 +1,18 @@
+{
+  "notes_folder": "",
+  "window_x": 48,
+  "window_y": 124,
+  "window_width": 914,
+  "window_height": 675,
+  "is_pinned": false,
+  "theme": "dark",
+  "font_family": "Consolas, 'Cascadia Code', monospace",
+  "font_size": 12,
+  "tab_size": 4,
+  "word_wrap": true,
+  "sidebar_expanded": true,
+  "last_active_note_id": "eb8369a0-36de-4511-958f-6e1381e5c120",
+  "sort_by": "modified",
+  "global_hotkey": "Ctrl+Alt+P",
+  "auto_save_delay_ms": 600
+}

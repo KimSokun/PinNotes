@@ -1,0 +1,18 @@
+{
+  "window": {
+    "width": 520,
+    "height": 430,
+    "x": 100,
+    "y": 100,
+    "is_maximized": false
+  },
+  "splitter": {
+    "sidebar_width": 210,
+    "editor_width": 310,
+    "sizes": [
+      210,
+      310
+    ]
+  },
+  "last_customized": "2026-10-28T00:27:38.559698"
+}
